@@ -1,0 +1,11 @@
+Član 38.
+(Civilna zaštita)
+(1) Sredstva utvrđena za 24. razdjel Budžeta, poziciju Transfer za zaštitu i spašavanje od prirodnih i drugih nesreća koriste se prema propisima i programima koje odobri Vlada Kantona, na prijedlog Kantonalne uprave za civilnu zaštitu.
+(2) Sredstva utvrđena za isti razdjel Budžeta, poziciju Transfer za nabavku opreme za strukture civilne zaštite koriste se prema propisima i programima koje odobri Vlada Kantona, na prijedlog Kantonalne uprave za civilnu zaštitu.
+(3) Sredstva utvrđena za isti razdjel Budžeta, poziciju Transfer za obuku i vježbe struktura civilne zaštite koriste se prema propisima i programima koje odobri Vlada Kantona, na prijedlog Kantonalne uprave za civilnu zaštitu.
+(4) Sredstva utvrđena za isti razdjel Budžeta, poziciju Transfer za preventivne mjere zaštite i spašavanja koriste se prema propisima i programima koje odobri Vlada Kantona, na prijedlog Kantonalne uprave za civilnu zaštitu.
+(5) Sredstva utvrđena za isti razdjel Budžeta, poziciju Transfer za saniranje dijela šteta nastalih prirodnim i drugim nesrećama te za finansiranje komisije za procjenu šteta koriste se prema propisima i programima koje odobri Vlada Kantona, na prijedlog Kantonalne uprave za civilnu zaštitu.
+(6) Sredstva utvrđena za isti razdjel Budžeta, poziciju Transfer za pomoć kantonima i općinama u saniranju dijela šteta nastalih prirodnim i drugim nesrećama te za jačanje sistema zaštite i spašavanja koriste se prema propisima i programima koje odobri Vlada Kantona, na prijedlog Kantonalne uprave za civilnu zaštitu.
+(7) Sredstva utvrđena za isti razdjel Budžeta, poziciju Transfer za troškove učešća u provođenju mjera zaštite i spašavanja te naknade za rad Kantonalnog štaba civilne zaštite koriste se prema propisima i programima koje odobri Vlada Kantona, na prijedlog Kantonalne uprave za civilnu zaštitu.
+(8) Sredstva utvrđena za programe iz stavova (1) do (7) ovoga člana raspoređuju se odlukama Vlade Kantona, na prijedlog Kantonalne uprave za civilnu zaštitu.
+(9) Sredstva utvrđena za isti razdjel Budžeta, poziciju Transfer za otklanjanje posljedica prirodne nepogode i obnovu područja zahvaćenih prirodnom nepogodom koriste se na osnovu odluke Vlade Kantona, na prijedlog Kantonalne uprave za civilnu zaštitu.

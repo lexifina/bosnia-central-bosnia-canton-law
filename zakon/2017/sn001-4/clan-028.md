@@ -1,0 +1,6 @@
+Odjeljak C. Transferi
+Član 28.
+(Političke stranke, udruženja i pojedinci)
+(1) Sredstva utvrđena za 10. razdjel Budžeta, poziciju Transfer parlamentarnim političkim strankama i grupama (Stranci demokratske akcije; Koaliciji HDZ-a Bosne i Hercegovine, HSS-a, HKDU-a Bosne i Hercegovine i HSP-a Herceg Bosne; Socijaldemokratskoj partiji Bosne i Hercegovine; Savezu za bolju budućnost Bosne i Hercegovine – Fahrudin Radončić; Demokratskoj fronti; HDZ-u 1990 – Hrvatskoj demokratskoj zajednici; Koaliciji HSP Bosne i Hercegovine – HSS Stjepana Radića; HSP-u Bosne i Hercegovine), raspoređuje Vlada Kantona, u skladu sa zakonskim propisima i ostalim aktima koji uređuju tu oblast, na osnovu prijedloga predsjedavajućeg Skupštine Kantona i zamjenika predsjedavajućeg Skupštine Kantona.
+(2) Sredstva utvrđena za isti razdjel Budžeta, poziciju Transfer neprofitnim organizacijama koriste se prema propisima i programima koje odobri Vlada Kantona na prijedlog predsjedavajućeg Skupštine Kantona i zamjenika predsjedavajućeg Skupštine Kantona.
+(3) Sredstva utvrđena za isti razdjel Budžeta, poziciju Transfer pojedincima koriste se prema propisima i programima koje odobri Vlada Kantona na prijedlog predsjedavajućeg Skupštine Kantona i zamjenika predsjedavajućeg Skupštine Kantona.
