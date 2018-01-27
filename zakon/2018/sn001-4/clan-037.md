@@ -1,0 +1,24 @@
+Član 37.
+(Rješavanje pitanja branilaca i invalida)
+(1) Sredstva utvrđena za 20. razdjel Budžeta, poziciju „Tekući transferi neprofitnim organizacijama – udruženjima branilaca“ koriste se prema propisima i programima koje odobri Vlada Kantona na prijedlog Kantonalne uprave za branioce.
+(2) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Ugovorene i druge posebne usluge – za sufinansiranje nabavke ortopedskih pomagala ratnim vojnim invalidima“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(3) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi pojedincima – za jednokratne novčane pomoći braniocima i članovima njihovih porodica“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(4) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi pojedincima – za sufinansiranje stambenog zbrinjavanja“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(5) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Ugovorene i druge posebne usluge – za banjsko i klimatsko liječenje branilaca“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(6) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi pojedincima – za šehidske nišane i nadgrobne spomenike poginulim braniocima“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(7) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi pojedincima – za stipendiranje – školovanje djece branilaca“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(8) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Ugovorene i druge posebne usluge – za troškove zakonske revizije tjelesnog oštećenja branilaca“ koriste se prema propisima i programima koje odobri Vlada Kantona na prijedlog Kantonalne uprave za branioce.
+(9) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi pojedincima – za finansiranje ostvarivanja prava na osnovu promijenjene radne sposobnosti“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(10) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi pojedincima – za troškove putovanja u inozemstvo radi liječenja“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(11) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi pojedincima – za pomoć u smrtnom slučaju“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(12) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi neprofitnim organizacijama – za izgradnju i uređenje mezarja i groblja“ koriste se prema propisima i programima koje odobri Vlada Kantona na prijedlog Kantonalne uprave za branioce.
+(13) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi drugim nivoima vlasti i fondovima – za zdravstvenu zaštitu branilaca i članova njihovih porodica“ koriste se prema pravilniku koji donosi Kantonalna uprava za branioce uz saglasnost Vlade Kantona.
+(14) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi neprofitnim organizacijama – za izgradnju i uređenje spomen-obilježja“ koriste se prema propisima i programima koje odobri Vlade Kantona na prijedlog Kantonalne uprave za branioce.
+(15) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi neprofitnim organizacijama – za manifestacije, obilježavanje značajnih datuma i sportske aktivnosti“ koriste se prema propisima i programima koje odobri Vlada Kantona na prijedlog Kantonalne uprave za branioce.
+(16) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi pojedincima – za psiho-socijalno liječenje branilaca“ koriste se prema propisima i programima koje odobri Vlada Kantona na prijedlog Kantonalne uprave za branioce.
+(17) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi drugim nivoima vlasti i fondovima – za zapošljavanje branilaca“ koriste se prema propisima i programima koje odobri Vlada Kantona na prijedlog Kantonalne uprave za branioce.
+(18) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Tekući transferi neprofitnim organizacijama – za pravnu pomoć“ koriste se prema propisima i programima koje odobri Vlada Kantona na prijedlog Kantonalne uprave za branioce.
+(19) Sredstva utvrđena za programe iz stavova (1), (7),
+(12), (14), (15) i (16) ovoga člana raspoređuju se odlukama Vlade Kantona, na prijedlog Kantonalne uprave za branioce.
+(20) Sredstva utvrđena za programe iz stavova (2), (3),
+(4), (5), (6), (8), (9), (10), (11), (13), (17) i (18) ovoga člana izdvajaju se odlukama Vlade Kantona.
