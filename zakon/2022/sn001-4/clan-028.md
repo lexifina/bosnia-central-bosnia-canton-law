@@ -1,0 +1,6 @@
+Član 28.
+(Korištenje sredstava sa 13. razdjela Budžeta)
+(1) Sredstva utvrđena za 13. razdjel Budžeta, pozicije „Subvencije javnim preduzećima – kazneno-popravnim ustanovama – pritvoru“ i „Subvencije javnim preduzećima – za izvršenje mjere sigurnosti obavezno psihijatrijsko liječenje“ koriste se na osnovu ugovora s kazneno-popravnim ustanovama i Sporazuma o smještaju i naknadi troškova za izvršenje mjera sigurnosti izrečenih u krivičnom postupku i drugom postupku u kojem se izriče mjera liječenja, sklopljenog s Javnom zdravstvenom ustanovom Zavod za forenzičku psihijatriju, Sokolac, te na osnovu Zakona o krivičnom postupku Federacije Bosne i Hercegovine („Službene novine Federacije Bosne i Hercegovine“, broj: 35/03, 56/03 – ispravka teksta, 78/04, 28/05, 55/06, 27/07, 53/07, 9/09, 12/10, 8/13, 59/14 i 74/20), preko računa koji odobri Ministarstvo pravosuđa i uprave.
+(2) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Subvencije javnim preduzećima – rad za opće dobro na slobodi“ koriste se na osnovu ugovora s javnim preduzećem
+– poslodavcem, preko računa koji odobri Ministarstvo pravosuđa i uprave.
+(3) Sredstva utvrđena za isti razdjel Budžeta, poziciju „Drugi tekući rashodi – podmirenje obaveza prema vansudskim nagodbama“ koriste se na osnovu odluke Vlade Kantona, na prijedlog resornoga ministarstva.
