@@ -1,0 +1,7 @@
+Broj: 01-02-696/22
+PREDSJEDAVAJUĆI SKUPŠTINE
+29. juna 2022.
+Travnik
+M I N I S T A R S T V O
+PRAVOSUĐA I UPRAVE
+Josip Kvasina, s. r.
