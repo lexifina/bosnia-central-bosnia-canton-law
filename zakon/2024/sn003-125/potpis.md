@@ -1,0 +1,7 @@
+Broj: 01-02-1271/23
+PREDSJEDAVAJUĆI SKUPŠTINE
+19. decembra 2023.
+Travnik
+V L A D A
+SREDNJOBOSANSKOG KANTONA
+Dražen Matišić, s. r.
