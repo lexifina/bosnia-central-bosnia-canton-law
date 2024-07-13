@@ -1,0 +1,2 @@
+Na osnovu tačke d) člana 41. Ustava Srednjobosanskog kantona („Službene novine Srednjobosanskog kantona“, broj: 1/97, 5/97, 6/97, 2/98, 7/98 – ispravka teksta, 8/98, 10/2000, 8/03, 2/04 i 14/04) i stava (2) člana 7. Zakona o budžetima u Federaciji Bosne i Hercegovine („Službene novine Federacije Bosne i Hercegovine“, broj: 102/13, 9/14 – ispravka teksta, 13/14, 8/15, 91/15, 102/15, 104/16, 5/18, 11/19, 99/19 i 25a/22-
+1), na prijedlog Vlade Srednjobosanskog kantona, Skupština Srednjobosanskog kantona na XIII sjednici, održanoj 28. juna 2024. godine, donosi
