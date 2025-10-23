@@ -1,0 +1,4 @@
+Član 7.
+(Mjerila i kriteriji za kategorizaciju javnih puteva)
+(1) Mjerila i kriterije za kategorizaciju javnih puteva i odluku o kategorizaciji javnih puteva, osim lokalnih puteva, na području Kantona, u skladu sa Smjernicama za projektovanje, građenje, održavanje i nadzor na putevima Federacije Bosne i Hercegovine („Službene novine Federacije Bosne i Hercegovine“, broj 80/06) i članovima 8. i 9. Zakona o putevima Federacije Bosne i Hercegovine, donosi Vlada Federacije Bosne i Hercegovine na prijedlog Federalnog ministarstva saobraćaja i komunikacija, u saglasnosti sa Ministarstvom privrede Srednjobosanskog kantona (u daljem tekstu: Ministarstvo).
+(2) Izuzetno od stava (1) ovog člana, odluku o kategorizaciji lokalnih puteva i gradskih ulica, donosi Vlada Srednjobosanskog kantona (u daljem tekstu: Vlada) na prijedlog nadležnog općinskog ili gradskog organa za poslove saobraćaja.

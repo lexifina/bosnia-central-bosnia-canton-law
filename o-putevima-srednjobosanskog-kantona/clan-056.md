@@ -1,0 +1,4 @@
+Član 56.
+(Izgradnja i rekonstrukcija objekata i instalacija na javnom putu i unutar putnog i zaštitnog pojasa javnog puta)
+(1) Uslove za uređenje prostora za izgradnju i rekonstrukciju objekata i instalacija na javnom putu i unutar putnog i zaštitnog pojasa javnog puta utvrđuje upravnik puta izdavanjem odobrenja, ako se radovi izvode u putnom pojasu, odnosno saglasnosti ako se radovi izvode u zaštitnom pojasu u skladu s odlukom o uslovima i načinu prokopavanja javnih površina na području Srednjobosanskog kantona koju donosi Skupština.
+(2) Uslovima iz stava (1) ovog člana za objekte, odnosno instalacije, koji se nalaze na javnom putu, odnosno unutar putnog pojasa javnog puta, utvrđuju se način, dinamika, te rokovi izvođenja tih radova kao i određivanje lokaliteta na kojima se objekti ne mogu graditi, te minimalno odstojanje objekata iste namjene jednog od drugog.

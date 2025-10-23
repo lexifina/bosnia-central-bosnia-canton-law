@@ -1,0 +1,6 @@
+Član 69.
+(Postavljanje saobraćajne signalizacije i opreme)
+(1) Saobraćajna signalizacija i oprema te turistička signalizacija postavljaju se na javnom putu na osnovu saobraćajnog projekta, a sve u skladu s Pravilnikom o saobraćajnim znakovima i signalizaciji na putevima, načinu obilježavanja radova i prepreka na putu i znakovima koje učesnicima u saobraćaju daje ovlašćeno lice („Službeni glasnik Bosne i Hercegovine“, broj: 16/07 i 61/07) i Pravilnikom o turističkoj i ostaloj signalizaciji na putevima („Službeni glasnik Bosne i Hercegovine“, broj 13/07) te aktima propisanim članom 252. Zakona o osnovama sigurnosti saobraćaja na putevima u Bosni i Hercegovini („Službeni glasnik Bosne i Hercegovine“, broj: 6/06, 75/06, 44/07, 84/09, 48/10, 18/13, 8/17, 89/17, 9/18, 46/23 i 88/23).
+(2) Za puteve koji su izgrađeni do dana stupanja na snagu ovog Zakona, a nemaju saobraćajni projekat, nadležno je postojeće stanje saobraćajne signalizacije i opreme do izrade saobraćajnog projekta.
+(3) Za puteve iz stava (2) ovog člana upravnik puteva dužan je izraditi saobraćajni projekat puta u roku od najviše tri godine od dana donošenja ovog Zakona.
+(4) Upravnik puteva je ovlašćen, uz saglasnost ministra, izmijeniti saobraćajni projekat iz stava (1) ovog člana, odnosno postojeće stanje iz stava (2) ovog člana.
