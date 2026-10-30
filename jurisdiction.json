@@ -1,0 +1,11 @@
+{
+  "path": "ba-06",
+  "code": "BA-06",
+  "name": "Central Bosnia Canton",
+  "level": "canton",
+  "parent": "ba-bih",
+  "repo": "https://github.com/lexifina/bosnia-central-bosnia-canton-law",
+  "build": "built: laws of 2022-2026 that nothing later amends, each as enacted or as an official consolidated text, from the Službene novine Srednjobosanskog kantona",
+  "language": "bs",
+  "sources": 1
+}

@@ -1,0 +1,89 @@
+{
+ "country": "BA-06",
+ "acts": [
+  {
+   "slug": "o-podsticanju-razvoja-male-privrede-srednjobosanskog-kantona",
+   "short": "Zakon o podsticanju razvoja male privrede Srednjobosanskog k",
+   "title": "Zakon o podsticanju razvoja male privrede Srednjobosanskog kantona",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2004-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 33,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2004-2022.pdf",
+     "sha256": "6d46f7868290d70ef5fc11e487bc938d9d35c087f402c6be6469ae8eef860dde"
+    }
+   ]
+  },
+  {
+   "slug": "o-muzejskoj-djelatnosti",
+   "short": "Zakon o muzejskoj djelatnosti",
+   "title": "Zakon o muzejskoj djelatnosti",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2007-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 51,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2007-2022.pdf",
+     "sha256": "312570517ff50bcd798585648618826cab413155bd68ddee539f872d030c44f1"
+    }
+   ]
+  },
+  {
+   "slug": "o-upotrebi-znakovnoga-jezika-u-srednjobosanskom-kantonu",
+   "short": "Zakon o upotrebi znakovnoga jezika u Srednjobosanskom kanton",
+   "title": "Zakon o upotrebi znakovnoga jezika u Srednjobosanskom kantonu",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2008-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-17",
+     "units": 44,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2008-2022.pdf",
+     "sha256": "5927fcf273a60446725bea05e19df6402a1f49dc8f2836b96298c7508bb12d84"
+    }
+   ]
+  },
+  {
+   "slug": "o-mirnom-okupljanju",
+   "short": "Zakon o mirnom okupljanju",
+   "title": "Zakon o mirnom okupljanju",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%2010.pdf",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 36,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%2010.pdf",
+     "sha256": "dee64928eab0eec5b456f7d1a99297aa53219f6739ff680821800efd70254d18"
+    }
+   ]
+  },
+  {
+   "slug": "o-javnim-priredbama",
+   "short": "Zakon o javnim priredbama",
+   "title": "Zakon o javnim priredbama",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%2010.pdf",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 27,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%2010.pdf",
+     "sha256": "dee64928eab0eec5b456f7d1a99297aa53219f6739ff680821800efd70254d18"
+    }
+   ]
+  },
+  {
+   "slug": "o-putevima-srednjobosanskog-kantona",
+   "short": "Zakon o putevima Srednjobosanskog kantona",
+   "title": "Zakon o putevima Srednjobosanskog kantona",
+   "url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 105,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+     "sha256": "e2580f24d5011eb33bff2b3e419ca116014074dbe674afbf21f9fbfdfb44d5b3"
+    }
+   ]
+  }
+ ]
+}
