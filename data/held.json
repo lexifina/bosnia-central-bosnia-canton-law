@@ -1,0 +1,627 @@
+{
+"note": "In-scope acts held back from main, with the reason and the official page.",
+"count": 73,
+"acts": [
+{
+"act": "law no. 4",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2016",
+"date": "2016-01-29",
+"act_no": 4,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-005",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/Sluzbene%20novine%20SBK%20br.%201%20-%202016.g.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2015. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 3/2016",
+"date": "2016-03-04",
+"act_no": 84,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/Sluzbene%20novine%20SBK%20br.%203%20-%202016.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O DOPUNSKIM PRAVIMA BRANILACA",
+"gazette": "Službene novine Srednjobosanskog kantona 4/2016",
+"date": "2016-03-30",
+"act_no": 90,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/Sluzbene%20novine%20SBK%204%202016.pdf"
+},
+{
+"act": "O OZNAČIVANJU I EVIDENTIRANJU NASELJENIH MJESTA, ULICA I TRGOVA TE UTVRĐIVANJU KUĆNIH BROJEVA",
+"gazette": "Službene novine Srednjobosanskog kantona 4/2016",
+"date": "2016-03-30",
+"act_no": 92,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/Sluzbene%20novine%20SBK%204%202016.pdf"
+},
+{
+"act": "law no. 112",
+"gazette": "Službene novine Srednjobosanskog kantona 5/2016",
+"date": "2016-04-26",
+"act_no": 112,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: heading after the last article",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/SN%20SBK%20broj%205.pdf"
+},
+{
+"act": "О ДЕЛЕГИРАЊУ НАДЛЕЖНОСТИ СРЕДЊОБОСАНСКОГ КАНТОНА ИЗ ОБЛАСТИ ТУРИСТИЧКЕ ДЈЕЛАТНОСТИ И РАДА ТУРИСТИЧКЕ ЗАЈЕДНИЦЕ НА ОПШТИНУ КРЕШЕВО И ОПШТИНУ КИСЕЉАК",
+"gazette": "Službene novine Srednjobosanskog kantona 6/2016",
+"date": "2016-06-09",
+"act_no": 233,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/SN%20SBK%20broj%206.pdf"
+},
+{
+"act": "law no. 305",
+"gazette": "Službene novine Srednjobosanskog kantona 7/2016",
+"date": "2016-06-27",
+"act_no": 305,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: heading after the last article",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/SN%20SBK%20broj%207.pdf"
+},
+{
+"act": "O PRIVREMENOM KORIŠTENJU JAVNIH POVRŠINA NA PODRUČJU SREDNJOBOSANSKOG KANTONA",
+"gazette": "Službene novine Srednjobosanskog kantona 14/2016",
+"date": "2016-12-23",
+"act_no": 683,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/SN%20SBK%20broj%2014.pdf"
+},
+{
+"act": "O PRAVIMA IZABRANIH DUŽNOSNIKA, NOSILACA IZVRŠNIH FUNKCIJA I SAVJETNIKA U INSTITUCIJAMA VLASTI SREDNJOBOSANSKOG KANTONA (Službeni prečišćeni tekst)",
+"gazette": "Službene novine Srednjobosanskog kantona 14/2016",
+"date": "2016-12-23",
+"act_no": 684,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/SN%20SBK%20broj%2014.pdf"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2017. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2017",
+"date": "2017-01-24",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2017/Sluzbene_novine_SBK_1_2017.pdf"
+},
+{
+"act": "O DOPUNI I IZMJENI ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2016. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 2/2017",
+"date": "2017-02-21",
+"act_no": 24,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2017/SN%20SBK%20br.%202%20-%202017%20I%20dio.pdf"
+},
+{
+"act": "O SUDSKIM PRISTOJBAMA",
+"gazette": "Službene novine Srednjobosanskog kantona 4/2017",
+"date": "2017-04-05",
+"act_no": 138,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2017/Sluzbene_novine_SBK_4_2017.pdf"
+},
+{
+"act": "O OBRAZOVANJU ODRASLIH OSOBA",
+"gazette": "Službene novine Srednjobosanskog kantona 5/2017",
+"date": "2017-04-14",
+"act_no": 185,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2017/Sluzbene_novine_SBK_5_2017.pdf"
+},
+{
+"act": "law no. 363",
+"gazette": "Službene novine Srednjobosanskog kantona 8/2017",
+"date": "2017-06-30",
+"act_no": 363,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no law name",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2017/Sluzbene_novine_SBK_8_2017.pdf"
+},
+{
+"act": "O PREDŠKOLSKOM ODGOJU",
+"gazette": "Službene novine Srednjobosanskog kantona 10/2017",
+"date": "2017-08-08",
+"act_no": 523,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2017/Sluzbene_novine_SBK_10_2017.pdf"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2018. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2018",
+"date": "2018-01-26",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2018/SN%20SBK%20br.%201-2018.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA",
+"gazette": "Službene novine Srednjobosanskog kantona 3/2018",
+"date": "2018-04-17",
+"act_no": 122,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2018/SN%20SBK%20br.%203-2018.pdf"
+},
+{
+"act": "O JAVNO-PRIVATNOM PARTNERSTVU",
+"gazette": "Službene novine Srednjobosanskog kantona 3/2018",
+"date": "2018-04-17",
+"act_no": 124,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2018/SN%20SBK%20br.%203-2018.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNI ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2018. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 9/2018",
+"date": "2018-08-13",
+"act_no": 415,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2018/Slubene%20novine%20SBK%20br.9.pdf"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2019. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2019",
+"date": "2019-01-28",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/images/NOVINE/Sluzbene_novine_SBK_br_1_2019.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O PLAĆAMA I NAKNADAMA U ORGANIMA VLASTI SREDNJOBOSANSKOG KANTONA",
+"gazette": "Službene novine Srednjobosanskog kantona 2/2019",
+"date": "2019-02-28",
+"act_no": 26,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2019/Sluzbene%20novine%20SBK%20br.2_.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNI ZAKONA O PLAĆAMA I NAKNADAMA POLICIJSKIH SLUŽBENIKA SREDNJOBOSANSKOG KANTONA",
+"gazette": "Službene novine Srednjobosanskog kantona 6/2019",
+"date": "2019-05-16",
+"act_no": 328,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2019/Slubene%20novine%20SBK%20br.6.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2019. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 8/2019",
+"date": "2019-07-25",
+"act_no": 482,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2019/Slubene%20novine%20SBK%20br.8.pdf"
+},
+{
+"act": "O IZMJENI I DOPUNI ZAKONA O ORGANIZOVANJU I DJELOKRUGU KANTONALNIH MINISTARSTAVA",
+"gazette": "Službene novine Srednjobosanskog kantona 11/2019",
+"date": "2019-10-31",
+"act_no": 695,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2019/Sluzbene%20novine%20SBK%20br.11.pdf"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2020. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2020",
+"date": "2020-02-03",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.1%20%20-%202020.pdf"
+},
+{
+"act": "O TURISTIČKIM ZAJEDNICAMA SREDNJOBOSANSKOG KANTONA",
+"gazette": "Službene novine Srednjobosanskog kantona 3/2020",
+"date": "2020-04-17",
+"act_no": 98,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.3%20%20-%202020.pdf"
+},
+{
+"act": "O DOPUNI ZAKONA O KONCESIJAMA",
+"gazette": "Službene novine Srednjobosanskog kantona 7/2020",
+"date": "2020-07-03",
+"act_no": 503,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.7%20%20-%202020.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O RUDARSTVU",
+"gazette": "Službene novine Srednjobosanskog kantona 7/2020",
+"date": "2020-07-03",
+"act_no": 505,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.7%20%20-%202020.pdf"
+},
+{
+"act": "O UBLAŽAVANJU NEGATIVNIH EKONOMSKIH POSLJEDICA",
+"gazette": "Službene novine Srednjobosanskog kantona 7/2020",
+"date": "2020-07-03",
+"act_no": 507,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.7%20%20-%202020.pdf"
+},
+{
+"act": "O NOVČANOJ EGZISTENCIJALNOJ NAKNADI",
+"gazette": "Službene novine Srednjobosanskog kantona 9/2020",
+"date": "2020-07-20",
+"act_no": 590,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.9%20%20-%202020.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMAMA",
+"gazette": "Službene novine Srednjobosanskog kantona 14/2020",
+"date": "2020-11-13",
+"act_no": 796,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.14%20%20-%202020.pdf"
+},
+{
+"act": "О ИЗМЈЕНИ И ДОПУНИ ЗАКОНА О ПОРЕЗУ НА ПРОМЕТ НЕКРЕТНИНА",
+"gazette": "Službene novine Srednjobosanskog kantona 16/2020",
+"date": "2020-12-31",
+"act_no": 905,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.16%20%20-%202020.pdf"
+},
+{
+"act": "O IZVRŠAVANJU PRORAČUNA KANTONA SREDIŠNJA BOSNA ZA 2021. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2021",
+"date": "2021-01-29",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.1%20%20-%202021.pdf"
+},
+{
+"act": "O SOCIJALNO NEPROFITNOM STANOVANJU SREDNJOBOSANSKOG KANTONA",
+"gazette": "Službene novine Srednjobosanskog kantona 10/2021",
+"date": "2021-10-12",
+"act_no": 545,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.10%20%20-%202021.pdf"
+},
+{
+"act": "O DOPUNAMA I IZMJENI ZAKONA O IZVRŠAVANJU PRORAČUNA KANTONA SREDIŠNJA BOSNA ZA 2021. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 11/2021",
+"date": "2021-11-23",
+"act_no": 584,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.11%20%20-%202021.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O PREDŠKOLSKOM ODGOJU",
+"gazette": "Službene novine Srednjobosanskog kantona 11/2021",
+"date": "2021-11-23",
+"act_no": 588,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.11%20%20-%202021.pdf"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2022. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2022",
+"date": "2022-01-25",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/22-01%20SN%20SBKKSB2956.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2022. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 7/2022",
+"date": "2022-07-14",
+"act_no": 573,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2007-2022.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA",
+"gazette": "Službene novine Srednjobosanskog kantona 9/2022",
+"date": "2022-10-10",
+"act_no": 680,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2009-2022.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O ŠUMAMA",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2023",
+"date": "2023-01-12",
+"act_no": 2,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2023/Slubene%20novine%20SBK%20br.%2001-2023.pdf"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2023. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 2/2023",
+"date": "2023-01-26",
+"act_no": 27,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2023/Slubene%20novine%20SBK%20br.%2002-2023.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2023. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 8/2023",
+"date": "2023-07-12",
+"act_no": 685,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2023/Slubene%20novine%20SBK%20br.%2008-2023.pdf"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2024. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2024",
+"date": "2024-01-16",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2024/Binder2.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O PLATAMA I NAKNADAMA U ORGANIMA VLASTI SREDNJOBOSANSKOG KANTONA",
+"gazette": "Službene novine Srednjobosanskog kantona 5/2024",
+"date": "2024-04-24",
+"act_no": 367,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/Binder5.pdf"
+},
+{
+"act": "O KORIŠTENJU I ODRŽAVANJU ZAJEDNIČKIH DIJELOVA I UREĐAJA ZGRADE TE UPRAVLJANJU ZAJEDNIČKIM",
+"gazette": "Službene novine Srednjobosanskog kantona 7/2024",
+"date": "2024-06-14",
+"act_no": 773,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/SN%207-24.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJSKIM SLUŽBENICIMA SREDNJOBOSANSKOG KANTONA",
+"gazette": "Službene novine Srednjobosanskog kantona 7/2024",
+"date": "2024-06-14",
+"act_no": 775,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/SN%207-24.pdf"
+},
+{
+"act": "O IZMJENI I DOPUNAMA ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2024. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 8/2024",
+"date": "2024-07-12",
+"act_no": 867,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/Binder1-sl%20Novine%20-%20B-H-S.pdf"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2025. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2025",
+"date": "2025-01-06",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/novine%202025-1.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2025. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 7/2025",
+"date": "2025-05-30",
+"act_no": 784,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/novine%207-25.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNI ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2025. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 9/2025",
+"date": "2025-07-28",
+"act_no": 910,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/novine%209-25.pdf"
+},
+{
+"act": "O PLATAMA I NAKNADAMA U ORGANIMA VLASTI SREDNJOBOSANSKOG KANTONA",
+"gazette": "Službene novine Srednjobosanskog kantona 12/2025",
+"date": "2025-11-26",
+"act_no": 1225,
+"reason": "tables (pay grades and coefficients) read in a different order by the independent reader (verify.py)",
+"detail": "tables (pay grades and coefficients) read in a different order by the independent reader (verify.py)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/novine%2012%20slz.pdf"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2026. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 1/2026",
+"date": "2026-01-05",
+"act_no": 4,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/novine%201-26.pdf"
+},
+{
+"act": "law no. 614",
+"gazette": "Službene novine Srednjobosanskog kantona 8/2026",
+"date": "2026-07-27",
+"act_no": 614,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-004",
+"official_url": "https://sbk-ksb.gov.ba/images/NOVINE/NOVINE%208-26.pdf"
+},
+{
+"act": "O PRIZNAVANJU INOSTRANIH OBRAZOVNIH ISPRAVA",
+"gazette": "Službene novine Srednjobosanskog kantona 8/2026",
+"date": "2026-07-27",
+"act_no": 616,
+"reason": "its annexed request forms (Obrazac-POI) are printed around the signature block and are not read in order",
+"detail": "its annexed request forms (Obrazac-POI) are printed around the signature block and are not read in order",
+"official_url": "https://sbk-ksb.gov.ba/images/NOVINE/NOVINE%208-26.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU BUDŽETA SREDNJOBOSANSKOG KANTONA ZA 2026. GODINU",
+"gazette": "Službene novine Srednjobosanskog kantona 9/2026",
+"date": "2026-07-29",
+"act_no": 723,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://sbk-ksb.gov.ba/images/NOVINE/NOVINE%209-26_compressed.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (3 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.15%20%20-%202020.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2014/bosanski_jezik_sluzbene_novine_1_2014.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (7 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2014/bosanski_jezik_sluzbene_novine_5_2014.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2013/Slubene%20novine%20SBK%20br.4%20-%202013.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "FzErrorFormat: code=7: cannot find page 232 in page tree",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2020/Slubene%20novine%20SBK%20br.8%20%20-%202020_.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2013/Slubene%20novine%20SBK%20br.1%20-%202013.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2015/bosanski_jezik_sluzbene_novine_9_2015.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2014/bosanski_jezik_sluzbene_novine_9_2014.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2014/bosanski_jezik_sluzbene_novine_11_2014.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2014/bosanski_jezik_sluzbene_novine_4_2014.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2015/bosanski_jezik_sluzbene_novine_5_2015.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2015/bosanski_jezik_sluzbene-novine_11_2015.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2014/bosanski_jezik_sluzbene_novine_12_2014.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (3 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2015/bosanski_jezik_sluzbene_novine_12_2015.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (3 laws in it)",
+"official_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2016/SN%20SBK%20broj%208.pdf"
+},
+{
+"act": null,
+"gazette": "Službene novine Srednjobosanskog kantona, 2013",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "5 issues read, 3 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://sbk-ksb.gov.ba/index.php/dokumenti"
+},
+{
+"act": null,
+"gazette": "Službene novine Srednjobosanskog kantona, 2014",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "14 issues read, 16 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://sbk-ksb.gov.ba/index.php/dokumenti"
+},
+{
+"act": null,
+"gazette": "Službene novine Srednjobosanskog kantona, 2015",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "13 issues read, 7 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://sbk-ksb.gov.ba/index.php/dokumenti"
+}
+]
+}
