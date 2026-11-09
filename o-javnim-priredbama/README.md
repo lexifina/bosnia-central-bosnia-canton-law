@@ -31,3 +31,5 @@ Zakon o javnim priredbama · 1 versions, from 2024-09-13 (latest in force: 2024-
 | Član 25. | [clan-025.md](clan-025.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
+
+Act id: `o-javnim-priredbama` (tags `o-javnim-priredbama/<day>`; `python tools/on.py <day> o-javnim-priredbama`).

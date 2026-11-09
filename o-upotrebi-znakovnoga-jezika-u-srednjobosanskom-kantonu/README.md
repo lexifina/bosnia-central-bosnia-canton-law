@@ -48,3 +48,5 @@ Zakon o upotrebi znakovnoga jezika u Srednjobosanskom kanton · 1 versions, from
 | Član 42. | [clan-042.md](clan-042.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
+
+Act id: `o-upotrebi-znakovnoga-jezika-u-srednjobosanskom-kantonu` (tags `o-upotrebi-znakovnoga-jezika-u-srednjobosanskom-kantonu/<day>`; `python tools/on.py <day> o-upotrebi-znakovnoga-jezika-u-srednjobosanskom-kantonu`).

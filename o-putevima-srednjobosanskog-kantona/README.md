@@ -109,3 +109,5 @@ Zakon o putevima Srednjobosanskog kantona · 1 versions, from 2025-10-23 (latest
 | Član 103. | [clan-103.md](clan-103.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
+
+Act id: `o-putevima-srednjobosanskog-kantona` (tags `o-putevima-srednjobosanskog-kantona/<day>`; `python tools/on.py <day> o-putevima-srednjobosanskog-kantona`).

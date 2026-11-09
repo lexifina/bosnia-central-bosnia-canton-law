@@ -37,3 +37,5 @@ Zakon o podsticanju razvoja male privrede Srednjobosanskog k · 1 versions, from
 | Član 31. | [clan-031.md](clan-031.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
+
+Act id: `o-podsticanju-razvoja-male-privrede-srednjobosanskog-kantona` (tags `o-podsticanju-razvoja-male-privrede-srednjobosanskog-kantona/<day>`; `python tools/on.py <day> o-podsticanju-razvoja-male-privrede-srednjobosanskog-kantona`).

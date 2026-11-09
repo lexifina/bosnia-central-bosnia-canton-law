@@ -55,3 +55,5 @@ Zakon o muzejskoj djelatnosti · 1 versions, from 2022-07-22 (latest in force: 2
 | Član 49. | [clan-049.md](clan-049.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
+
+Act id: `o-muzejskoj-djelatnosti` (tags `o-muzejskoj-djelatnosti/<day>`; `python tools/on.py <day> o-muzejskoj-djelatnosti`).

@@ -1,0 +1,545 @@
+{
+ "country": "BA-06",
+ "acts": [
+  {
+   "slug": "o-podsticanju-razvoja-male-privrede-srednjobosanskog-kantona",
+   "path": "o-podsticanju-razvoja-male-privrede-srednjobosanskog-kantona",
+   "short": "Zakon o podsticanju razvoja male privrede Srednjobosanskog k",
+   "title": "Zakon o podsticanju razvoja male privrede Srednjobosanskog kantona",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2004-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 33,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2004-2022.pdf",
+     "sha256": "6d46f7868290d70ef5fc11e487bc938d9d35c087f402c6be6469ae8eef860dde"
+    }
+   ]
+  },
+  {
+   "slug": "o-muzejskoj-djelatnosti",
+   "path": "o-muzejskoj-djelatnosti",
+   "short": "Zakon o muzejskoj djelatnosti",
+   "title": "Zakon o muzejskoj djelatnosti",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2007-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 51,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2007-2022.pdf",
+     "sha256": "312570517ff50bcd798585648618826cab413155bd68ddee539f872d030c44f1"
+    }
+   ]
+  },
+  {
+   "slug": "o-upotrebi-znakovnoga-jezika-u-srednjobosanskom-kantonu",
+   "path": "o-upotrebi-znakovnoga-jezika-u-srednjobosanskom-kantonu",
+   "short": "Zakon o upotrebi znakovnoga jezika u Srednjobosanskom kanton",
+   "title": "Zakon o upotrebi znakovnoga jezika u Srednjobosanskom kantonu",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2008-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-17",
+     "units": 44,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2008-2022.pdf",
+     "sha256": "5927fcf273a60446725bea05e19df6402a1f49dc8f2836b96298c7508bb12d84"
+    }
+   ]
+  },
+  {
+   "slug": "o-mirnom-okupljanju",
+   "path": "o-mirnom-okupljanju",
+   "short": "Zakon o mirnom okupljanju",
+   "title": "Zakon o mirnom okupljanju",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%2010.pdf",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 36,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%2010.pdf",
+     "sha256": "dee64928eab0eec5b456f7d1a99297aa53219f6739ff680821800efd70254d18"
+    }
+   ]
+  },
+  {
+   "slug": "o-javnim-priredbama",
+   "path": "o-javnim-priredbama",
+   "short": "Zakon o javnim priredbama",
+   "title": "Zakon o javnim priredbama",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%2010.pdf",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 27,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%2010.pdf",
+     "sha256": "dee64928eab0eec5b456f7d1a99297aa53219f6739ff680821800efd70254d18"
+    }
+   ]
+  },
+  {
+   "slug": "o-putevima-srednjobosanskog-kantona",
+   "path": "o-putevima-srednjobosanskog-kantona",
+   "short": "Zakon o putevima Srednjobosanskog kantona",
+   "title": "Zakon o putevima Srednjobosanskog kantona",
+   "url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 105,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+     "sha256": "e2580f24d5011eb33bff2b3e419ca116014074dbe674afbf21f9fbfdfb44d5b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn002-22",
+   "path": "zakon/2018/sn002-22",
+   "short": "Zakon o izmjeni i dopunama zakona o komunalnim taksama",
+   "title": "Zakon o izmjeni i dopunama zakona o komunalnim taksama",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2018/SN%20SBK%20br.%202-2018.pdf",
+   "versions": [
+    {
+     "from": "2018-03-23",
+     "units": 6,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2018/SN%20SBK%20br.%202-2018.pdf",
+     "sha256": "24290d5a4ff97ffae0011936b5b55acc1cc77bb7cff7bcd699f20e3d34e995ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn009-417",
+   "path": "zakon/2018/sn009-417",
+   "short": "Zakon o dopunama zakona o policijskim službenicima Srednjobo",
+   "title": "Zakon o dopunama zakona o policijskim službenicima Srednjobosanskog kantona",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2018/Slubene%20novine%20SBK%20br.9.pdf",
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 6,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2018/Slubene%20novine%20SBK%20br.9.pdf",
+     "sha256": "e0e21ef3dce4acc56c940d49be4a66ca6b07cd06c920a3ab5c5fa572c7859c02"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn010-541",
+   "path": "zakon/2021/sn010-541",
+   "short": "Zakon o izmjeni zakona o koncesijama",
+   "title": "Zakon o izmjeni zakona o koncesijama",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.10%20%20-%202021.pdf",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 4,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.10%20%20-%202021.pdf",
+     "sha256": "9a20f05701096d71288482a12d79b324133ec4e653f7d18739f6c2943096f25f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn010-543",
+   "path": "zakon/2021/sn010-543",
+   "short": "Zakon o izmjenama i dopunama zakona o obrazovanju odraslih o",
+   "title": "Zakon o izmjenama i dopunama zakona o obrazovanju odraslih osoba",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.10%20%20-%202021.pdf",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 7,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.10%20%20-%202021.pdf",
+     "sha256": "9a20f05701096d71288482a12d79b324133ec4e653f7d18739f6c2943096f25f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn011-586",
+   "path": "zakon/2021/sn011-586",
+   "short": "Zakon o izmjeni zakona o zdravstvenom osiguranju",
+   "title": "Zakon o izmjeni zakona o zdravstvenom osiguranju",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.11%20%20-%202021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-01",
+     "units": 4,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2021/Slubene%20novine%20SBK%20br.11%20%20-%202021.pdf",
+     "sha256": "f16e0440a967de08dfb773a804c407314f67968307c406092b750409df5ea48e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn005-433",
+   "path": "zakon/2022/sn005-433",
+   "short": "Zakon o izmjenama i dopuni zakona o proglašenju spomenika pr",
+   "title": "Zakon o izmjenama i dopuni zakona o proglašenju spomenika prirode „prokoško jezero“",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2005-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 5,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2005-2022.pdf",
+     "sha256": "4e43e7e1c02d1943fc7cc861fb9cffeff61521306715c0be8d6999eb79d94eed"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn007-577",
+   "path": "zakon/2022/sn007-577",
+   "short": "Zakon o izmjenama i dopunama zakona o novčanoj egzistencijal",
+   "title": "Zakon o izmjenama i dopunama zakona o novčanoj egzistencijalnoj naknadi",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2007-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 10,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2007-2022.pdf",
+     "sha256": "312570517ff50bcd798585648618826cab413155bd68ddee539f872d030c44f1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn010-792",
+   "path": "zakon/2022/sn010-792",
+   "short": "Zakon o izmjenama i dopunama zakona o nabavci, držanju i noš",
+   "title": "Zakon o izmjenama i dopunama zakona o nabavci, držanju i nošenju oružja i municije",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2010-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-11-05",
+     "units": 22,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2022/Slubene%20novine%20SBK%20br.%2010-2022.pdf",
+     "sha256": "4d0d000412eef6871fa0dcbe08fd5ade7f201a64a6bb9c93cf6c10070f8a156b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn004-220",
+   "path": "zakon/2023/sn004-220",
+   "short": "Zakon o izmjeni i dopuni zakona o socijalnoj zaštiti, zaštit",
+   "title": "Zakon o izmjeni i dopuni zakona o socijalnoj zaštiti, zaštiti civilnih žrtava rata",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2023/Slubene%20novine%20SBK%20br.%2004-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-22",
+     "units": 4,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2023/Slubene%20novine%20SBK%20br.%2004-2023.pdf",
+     "sha256": "74831c74b16e236af25d3b2612b6b15d4f7a8745042e77a475dfd757b190a59c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn008-687",
+   "path": "zakon/2023/sn008-687",
+   "short": "Zakon o izmjenama i dopunama zakona o novčanoj egzistencijal",
+   "title": "Zakon o izmjenama i dopunama zakona o novčanoj egzistencijalnoj naknadi",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2023/Slubene%20novine%20SBK%20br.%2008-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 9,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2023/Slubene%20novine%20SBK%20br.%2008-2023.pdf",
+     "sha256": "b27bce0cb393da29486bbc84c1eb3f5c844381668cc18b7f7fc0c8e6c6122a31"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn014-1063",
+   "path": "zakon/2023/sn014-1063",
+   "short": "Zakon o izmjenama i dopunama zakona o koncesijama",
+   "title": "Zakon o izmjenama i dopunama zakona o koncesijama",
+   "url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2023/Slubene%20novine%20SBK%20br.%2014-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 7,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/sluzbene/2023/Slubene%20novine%20SBK%20br.%2014-2023.pdf",
+     "sha256": "fa31b5e5a355d3a9a72ab3a3c3099055cd55eddba892d8004f14fb90bda2b6a1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn003-125",
+   "path": "zakon/2024/sn003-125",
+   "short": "Zakon o izmjenama i dopuni zakona o novčanoj egzistencijalno",
+   "title": "Zakon o izmjenama i dopuni zakona o novčanoj egzistencijalnoj naknadi",
+   "url": "https://sbk-ksb.gov.ba/media/documents/Binder3.pdf",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 9,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/Binder3.pdf",
+     "sha256": "f953f9ba3dabd4c41ef1c431718b43522e1e74674af6db764ee56824ba2ce63e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn013-1360",
+   "path": "zakon/2024/sn013-1360",
+   "short": "Zakon o izmjenama i dopunama zakona o cestovnom prijevozu na",
+   "title": "Zakon o izmjenama i dopunama zakona o cestovnom prijevozu na području Srednjobosanskog kantona",
+   "url": "https://sbk-ksb.gov.ba/media/documents/SLN%2013.pdf",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 13,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/SLN%2013.pdf",
+     "sha256": "13f287aaeca9de7d552c95395a2adaca19b9b3a96b272d8f7db8cb60aea98dcd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn013-1362",
+   "path": "zakon/2024/sn013-1362",
+   "short": "Zakon o izmjeni i dopuni zakona o vodama Srednjobosanskog ka",
+   "title": "Zakon o izmjeni i dopuni zakona o vodama Srednjobosanskog kantona",
+   "url": "https://sbk-ksb.gov.ba/media/documents/SLN%2013.pdf",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 4,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/SLN%2013.pdf",
+     "sha256": "13f287aaeca9de7d552c95395a2adaca19b9b3a96b272d8f7db8cb60aea98dcd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn001-6",
+   "path": "zakon/2025/sn001-6",
+   "short": "Zakon o dopunama zakona o građenju",
+   "title": "Zakon o dopunama zakona o građenju",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%202025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 8,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%202025-1.pdf",
+     "sha256": "26c2fc860781d50acf8167c91b2883587d6d879f4fcfde9a0a17ea4e704318c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn001-8",
+   "path": "zakon/2025/sn001-8",
+   "short": "Zakon o izmjeni i dopuni zakona o prostornom uređenju",
+   "title": "Zakon o izmjeni i dopuni zakona o prostornom uređenju",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%202025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 5,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%202025-1.pdf",
+     "sha256": "26c2fc860781d50acf8167c91b2883587d6d879f4fcfde9a0a17ea4e704318c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn009-912",
+   "path": "zakon/2025/sn009-912",
+   "short": "Zakon o izmjeni zakona o socijalnoj skrbi, skrbi o civilnim",
+   "title": "Zakon o izmjeni zakona o socijalnoj skrbi, skrbi o civilnim žrtvama rata",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%209-25.pdf",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 4,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%209-25.pdf",
+     "sha256": "2600643c5d4728997a7d21aa861d38ea25e2c4afb37cc43f862f704e500a9efb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn011-1110",
+   "path": "zakon/2025/sn011-1110",
+   "short": "Zakon o agenciji za privatizaciju",
+   "title": "Zakon o agenciji za privatizaciju",
+   "url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 30,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+     "sha256": "e2580f24d5011eb33bff2b3e419ca116014074dbe674afbf21f9fbfdfb44d5b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn011-1112",
+   "path": "zakon/2025/sn011-1112",
+   "short": "Zakon o izmjenama zakona o komunalnim taksama",
+   "title": "Zakon o izmjenama zakona o komunalnim taksama",
+   "url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 15,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+     "sha256": "e2580f24d5011eb33bff2b3e419ca116014074dbe674afbf21f9fbfdfb44d5b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn011-1114",
+   "path": "zakon/2025/sn011-1114",
+   "short": "Zakon o dopuni zakona o pripadnosti javnih prihoda u Srednjo",
+   "title": "Zakon o dopuni zakona o pripadnosti javnih prihoda u Srednjobosanskom kantonu",
+   "url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 4,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+     "sha256": "e2580f24d5011eb33bff2b3e419ca116014074dbe674afbf21f9fbfdfb44d5b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn011-1116",
+   "path": "zakon/2025/sn011-1116",
+   "short": "Zakon o izmjenama i dopunama zakona o korištenju i održavanj",
+   "title": "Zakon o izmjenama i dopunama zakona o korištenju i održavanju zajedničkih dijelova i uređaja zgrada te upravljanju zajedničkim dijelovima",
+   "url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 11,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/Sluzbene11.pdf",
+     "sha256": "e2580f24d5011eb33bff2b3e419ca116014074dbe674afbf21f9fbfdfb44d5b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn012-1219",
+   "path": "zakon/2025/sn012-1219",
+   "short": "Zakon o izmjenama zakona o pravobranilaštvu",
+   "title": "Zakon o izmjenama zakona o pravobranilaštvu",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%2012%20slz.pdf",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 5,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%2012%20slz.pdf",
+     "sha256": "b2a1c5c925106008bd0670f3eca4e1bda79f2455b814ffa6c85e33a05ca499e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn012-1221",
+   "path": "zakon/2025/sn012-1221",
+   "short": "Zakon o izmjeni zakona o zdravstvenom osiguranju",
+   "title": "Zakon o izmjeni zakona o zdravstvenom osiguranju",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%2012%20slz.pdf",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 4,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%2012%20slz.pdf",
+     "sha256": "b2a1c5c925106008bd0670f3eca4e1bda79f2455b814ffa6c85e33a05ca499e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn012-1223",
+   "path": "zakon/2025/sn012-1223",
+   "short": "Zakon o dopuni zakona o vodama Srednjobosanskog kantona",
+   "title": "Zakon o dopuni zakona o vodama Srednjobosanskog kantona",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%2012%20slz.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 4,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%2012%20slz.pdf",
+     "sha256": "b2a1c5c925106008bd0670f3eca4e1bda79f2455b814ffa6c85e33a05ca499e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn001-6",
+   "path": "zakon/2026/sn001-6",
+   "short": "Zakon o izmjeni i dopuni zakona o socijalnoj zaštiti, zaštit",
+   "title": "Zakon o izmjeni i dopuni zakona o socijalnoj zaštiti, zaštiti civilnih žrtava rata",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%201-26.pdf",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 5,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%201-26.pdf",
+     "sha256": "96f09129d747146b2254bdc52f94563d89c3209cd730e588a77b798dc7ff43f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn001-8",
+   "path": "zakon/2026/sn001-8",
+   "short": "Zakon o izmjenama zakona o kantonalnom tužilaštvu Srednjobos",
+   "title": "Zakon o izmjenama zakona o kantonalnom tužilaštvu Srednjobosanskog kantona",
+   "url": "https://sbk-ksb.gov.ba/media/documents/novine%201-26.pdf",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 9,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/novine%201-26.pdf",
+     "sha256": "96f09129d747146b2254bdc52f94563d89c3209cd730e588a77b798dc7ff43f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn004-300",
+   "path": "zakon/2026/sn004-300",
+   "short": "Zakon o izmjeni zakona o socijalnoj zaštiti, zaštiti civilni",
+   "title": "Zakon o izmjeni zakona o socijalnoj zaštiti, zaštiti civilnih žrtava rata",
+   "url": "https://sbk-ksb.gov.ba/media/documents/NOVINEE%204-26.pdf",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 4,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/NOVINEE%204-26.pdf",
+     "sha256": "b02b475aadd0ace4110dfbef6a3a2e2ecbaeae22702c12cef2f81dcd00d6eb23"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn006-453",
+   "path": "zakon/2026/sn006-453",
+   "short": "Zakon o dopunama zakona o dopunskim pravima branilaca",
+   "title": "Zakon o dopunama zakona o dopunskim pravima branilaca",
+   "url": "https://sbk-ksb.gov.ba/media/documents/NOVINE%206-26.pdf",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 9,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/NOVINE%206-26.pdf",
+     "sha256": "66ed7338e03cd4b15ade6ba615fa2167ade54e459579e42ae5b85ffb329921d1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn006-455",
+   "path": "zakon/2026/sn006-455",
+   "short": "Zakon o izmjenama i dopunama zakona o agenciji za privatizac",
+   "title": "Zakon o izmjenama i dopunama zakona o agenciji za privatizaciju",
+   "url": "https://sbk-ksb.gov.ba/media/documents/NOVINE%206-26.pdf",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 6,
+     "source_url": "https://sbk-ksb.gov.ba/media/documents/NOVINE%206-26.pdf",
+     "sha256": "66ed7338e03cd4b15ade6ba615fa2167ade54e459579e42ae5b85ffb329921d1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn008-612",
+   "path": "zakon/2026/sn008-612",
+   "short": "Zakon o dopunama zakona o šumama",
+   "title": "Zakon o dopunama zakona o šumama",
+   "url": "https://sbk-ksb.gov.ba/images/NOVINE/NOVINE%208-26.pdf",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 6,
+     "source_url": "https://sbk-ksb.gov.ba/images/NOVINE/NOVINE%208-26.pdf",
+     "sha256": "98845d86212d2d9f3781ae4967a3aae5ac5e4b272989d57e36790f844f24ee57"
+    }
+   ]
+  }
+ ]
+}
