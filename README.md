@@ -12,8 +12,8 @@ Each issue of the gazette prints every act in Bosnian, Croatian and Serbian (Cyr
 
 The canton publishes the Službene novine Srednjobosanskog kantona on its site for 2013 to 2026; every issue listed there is read. Of the 91 Assembly laws the reader finds in them, 36 are here (from 2018), as:
 
-- the law as enacted, dated the day it took effect; where later laws in the gazette amend it and no official consolidated text has been published since, it is marked `amended, not consolidated` and the amending laws are named (1 laws added on 2026-11-09);
-- amending laws, each as an act of its own (29 added on 2026-11-09);
+- the law as enacted, dated the day it took effect; where later laws in the gazette amend it and no official consolidated text has been published since, it is marked `amended, not consolidated` and the amending laws are named (0 laws added on 2026-11-09);
+- amending laws, each as an act of its own (0 added on 2026-11-09);
 - official consolidated texts (prečišćeni tekst), dated the day of their issue (0 added on 2026-11-09).
 
 The first build (October 2026) holds its laws in folders named after them; laws added later are in `zakon/<year>/sn<issue>-<act number>/`, indexed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json).
@@ -43,6 +43,7 @@ Central Bosnia Canton (Srednjobosanski kanton / Kanton Središnja Bosna), <https
 ## What "author" means
 
 The author of a commit is the law that made it, named by its gazette number, with an e-mail address that cannot exist (`<key>@sbk-ksb.gov.ba.invalid`). The committer is always Lexifina.
+
 
 ## Freshness
 
