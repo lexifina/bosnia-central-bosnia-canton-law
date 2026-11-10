@@ -1,17 +1,17 @@
 {
  "note": "Update status of this repository, refreshed by every refresh run.",
- "as_of": "2026-11-09T23:43:18+00:00",
+ "as_of": "2026-11-10T00:03:11+00:00",
  "updates": "idle",
- "last_published": "2026-11-09T23:25:32Z",
+ "last_published": "2026-11-09T23:43:21Z",
  "published_last_24h": {
-  "commits": 1
+  "commits": 2
  },
  "official_sources": [
   {
    "source": "Službene novine Srednjobosanskog kantona",
    "url": "https://sbk-ksb.gov.ba/index.php/dokumenti",
    "state": "available",
-   "last_successful_contact": "2026-11-09"
+   "last_successful_contact": "2026-11-10"
   }
  ]
 }
