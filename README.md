@@ -16,7 +16,7 @@ The canton publishes the Službene novine Srednjobosanskog kantona on its site f
 - amending laws, each as an act of its own (0 added on 2026-11-09);
 - official consolidated texts (prečišćeni tekst), dated the day of their issue (0 added on 2026-11-09).
 
-The first build (October 2026) holds its laws in folders named after them; laws added later are in `zakon/<year>/sn<issue>-<act number>/`, indexed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json).
+Every law is in `zakon/<year>/sn<issue>-<act number>/`, by the year and issue of the gazette and the act's number in it (`zakon/2024/sn010-1014/`), indexed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json). The first build (October 2026) had its 6 laws in folders at the top named after them until 2026-11-15; [registry/data/paths.json](registry/data/paths.json) maps every act id to its folder, and `git log --follow` and `tools/on.py` read both. The top level holds only the documentation, one folder per kind of act (`zakon/`), `data/`, `registry/`, `tools/`, `visualisations/` and `vulnerabilities/`.
 
 Held back, with the reason, in [data/held.json](data/held.json) (55 laws): budget laws and laws amending them (temporary), texts that do not split into articles, laws whose in-force clause cannot be read, and texts a second, independent PDF reader does not confirm. Gazette years whose issues the reader cannot yet read (2013, 2014, 2015) are listed in data/held.json with the reason; their laws are not in the record. 15 issues could not be read or dated and are listed there too.
 
@@ -31,7 +31,7 @@ Central Bosnia Canton (Srednjobosanski kanton / Kanton Središnja Bosna), <https
 
 ## Files
 
-`<law>/clan-001.md` is Član 1, `clan-005-a.md` Član 5a. `uvod.md` holds the preamble (the legal basis and the Assembly's adoption) where the law has one, `naslov.md` the title, `potpis.md` the signature block. Most laws are printed after a decree of the Speaker of the Assembly proclaiming them (Ukaz o proglašenju zakona, its own act in the gazette); the decree is not part of the law and is not included. Chapter headings stay in the file of the article they stand before. One paragraph per line.
+`<folder>/clan-001.md` is Član 1, `clan-005-a.md` Član 5a. `uvod.md` holds the preamble (the legal basis and the Assembly's adoption) where the law has one, `naslov.md` the title, `potpis.md` the signature block. Most laws are printed after a decree of the Speaker of the Assembly proclaiming them (Ukaz o proglašenju zakona, its own act in the gazette); the decree is not part of the law and is not included. Chapter headings stay in the file of the article they stand before. One paragraph per line.
 
 ## How it is checked
 
@@ -39,6 +39,7 @@ Central Bosnia Canton (Srednjobosanski kanton / Kanton Središnja Bosna), <https
 - The letters and digits of every law equal those of the gazette issue, read independently with a different PDF reader, from the first paragraph to the last article; the signature block's lines all occur in it.
 - Whether a law was later amended or repealed is judged from every later law in the scanned issues (a law is marked `amended, not consolidated` when a later amending law cites its gazette number next to a word of its subject, or any later law cites it next to words of repeal). Decisions of the Constitutional Court are not checked.
 - Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in Central Bosnia Canton law, found by global-law's detectors and checked by hand (a placeholder: the detectors have not been run here yet).
 
 ## What "author" means
 
@@ -59,3 +60,14 @@ Checked against the official sources: 2026-11-11; 100% of acts verified in the l
 ## Limits
 
 This is not an official publication. The binding text is the one published in the Službene novine Srednjobosanskog kantona. Only the laws listed in `data/versions.json` and `registry/data/acts.json` are included; amendments published after the last issue read are not in the record.
+
+## Visualisations
+
+[visualisations/](visualisations/): charts of Central Bosnia Canton law drawn from this repository. A placeholder for now: no charts have been drawn yet.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published

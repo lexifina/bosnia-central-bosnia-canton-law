@@ -1,7 +1,5 @@
 """Checks a git-for-law repository against the corpus.json it was built from, and against git's own rules.
-
     python -X utf8 scripts/gitlaw_common/check.py ~/Documents/<slug>-law --corpus scripts/<slug>-law/corpus.json [--write]
-
 1. Every version of every act, read back from git on the day it took effect (choosing the commit by its In-force
    trailer, as tools/on.py does), matches the corpus file by file; and on the day before, the act still reads as the
    version before it. That second check is what catches a change committed on the wrong day.
@@ -10,7 +8,6 @@
 With --write, the result goes to verification.json next to corpus.json; build.py prints it into REPRODUCE.md.
 """
 from __future__ import annotations
-
 import argparse
 import datetime as dt
 import hashlib
@@ -19,18 +16,12 @@ import subprocess
 import sys
 import time
 from pathlib import Path
-
-
 def git(repo: Path, *args: str) -> str:
     return subprocess.run(['git', *args], cwd=repo, capture_output=True, text=True, encoding='utf-8', check=True).stdout
-
-
 class Cat:
     """One long-lived `git cat-file --batch` for every blob read."""
-
     def __init__(self, repo: Path):
         self.p = subprocess.Popen(['git', 'cat-file', '--batch'], cwd=repo, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-
     def read(self, spec: str) -> bytes | None:
         self.p.stdin.write(spec.encode('utf-8') + b'\n')
         self.p.stdin.flush()
@@ -41,23 +32,35 @@ class Cat:
         data = self.p.stdout.read(size)
         self.p.stdout.read(1)
         return data
-
     def close(self):
         self.p.stdin.close()
         self.p.wait()
-
-
 def commits_by_act(repo: Path, branch: str, act: str) -> list[tuple[str, str]]:
     out = git(repo, 'log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', branch, '--', act)
     return [(h, d.strip()) for h, d in (l.split('\t', 1) for l in out.splitlines()) if d.strip()]
-
-
-def all_commits_by_act(repo: Path, branch: str, acts: list[str]) -> dict[str, list[tuple[str, str]]]:
+def act_dirs(repo: Path, slugs: list[str], ref: str = 'main') -> dict[str, list[str]]:
+    """{slug: [folders]}: the folder the act lives in now (data/paths.json, written by the layout move) first, then the
+    slug, its folder before the move. Old commits keep the old folder, so every reader looks in both."""
+    import os
+    # 2026-11-09 (alan-dell): a foreign-repo build keeps its indexes under GITLAW_DOCS_PREFIX (croatia: registry/).
+    paths = {}
+    # 2026-11-15: without GITLAW_DOCS_PREFIX, data/paths.json and then registry/data/paths.json (layout move).
+    prefixes = [os.environ['GITLAW_DOCS_PREFIX']] if 'GITLAW_DOCS_PREFIX' in os.environ else ['', 'registry/']
+    for prefix in prefixes:
+        try:
+            paths = json.loads(git(repo, 'show', f'{ref}:{prefix}data/paths.json')).get('paths', {})
+            break
+        except (SystemExit, Exception):
+            continue
+    return {s: list(dict.fromkeys([paths.get(s, s), s])) for s in slugs}
+def all_commits_by_act(repo: Path, branch: str, acts) -> dict[str, list[tuple[str, str]]]:
     """commits_by_act() for every act from one `git log --name-only` walk instead of one walk per act (a corpus of a
     few thousand acts spent most of its check time there). Same commits, same order: a commit belongs to an act when
     it touches a path at or under it; --no-renames lists both sides of a move, as the per-act path filter sees it."""
-    want = set(acts)
-    rows: dict[str, list[tuple[str, str]]] = {a: [] for a in acts}
+    # acts: a list of folders, or {act: [folders]} for acts that moved (the layout move): either folder counts.
+    dirs = acts if isinstance(acts, dict) else {a: [a] for a in acts}
+    want = {d: a for a, ds in dirs.items() for d in ds}
+    rows: dict[str, list[tuple[str, str]]] = {a: [] for a in dirs}
     out = git(repo, 'log', '--no-merges', '--no-renames', '--name-only',
               '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)', branch)
     for rec in out.split('\x00')[1:]:
@@ -72,38 +75,36 @@ def all_commits_by_act(repo: Path, branch: str, acts: list[str]) -> dict[str, li
             for i in range(1, len(parts) + 1):
                 p = '/'.join(parts[:i])
                 if p in want:
-                    hit.add(p)
+                    hit.add(want[p])
         for a in hit:
             rows[a].append((h, d))
     return rows
-
-
 def state_on(rows: list[tuple[str, str]], day: str) -> str | None:
     for h, d in rows:
         if d <= day:
             return h
     return None
-
-
 def tree_files(repo: Path, commit: str, act: str) -> list[str]:
     return [f for f in git(repo, 'ls-tree', '-r', '--name-only', commit, f'{act}/').split('\n')
             if f.endswith('.md') and f != f'{act}/README.md']
-
-
 def blob_oid(text: str) -> str:
     """The id git gives a file with this text, so a file is compared by id without reading it back."""
     b = text.encode('utf-8')
     return hashlib.sha1(b'blob %d\0' % len(b) + b).hexdigest()
-
-
-def tree_oids(cat: 'Cat', commit: str, act: str, cache: dict) -> dict[str, str]:
-    """{path: blob id} of every .md under act/ (README.md excepted) at commit, read through the cat-file process
-    already open (no `git ls-tree` per version) and cached per (commit, act): the day before a version is usually the
-    commit of the version before it."""
+def tree_oids(cat: 'Cat', commit: str, act, cache: dict) -> dict[str, str]:
+    """{name relative to the act folder: blob id} of every .md in the act's folder (README.md excepted) at commit, read
+    through the cat-file process already open (no `git ls-tree` per version) and cached per (commit, folder): the day
+    before a version is usually the commit of the version before it. act is a folder, or a list of folders to try in
+    order (the act's folder after the layout move, then before it); the first that exists at commit is read."""
+    for folder in ([act] if isinstance(act, str) else act):
+        got = _tree_oids(cat, commit, folder, cache)
+        if got:
+            return got
+    return {}
+def _tree_oids(cat: 'Cat', commit: str, act: str, cache: dict) -> dict[str, str]:
     key = (commit, act)
     if key not in cache:
         out: dict[str, str] = {}
-
         def walk(spec: str, prefix: str):
             data = cat.read(spec)
             if data is None:
@@ -120,10 +121,8 @@ def tree_oids(cat: 'Cat', commit: str, act: str, cache: dict) -> dict[str, str]:
                 elif mode != b'160000':
                     out[path] = oid
         walk(f'{commit}:{act}', act)
-        cache[key] = {f: o for f, o in out.items() if f.endswith('.md') and f != f'{act}/README.md'}
+        cache[key] = {f[len(act) + 1:]: o for f, o in out.items() if f.endswith('.md') and f != f'{act}/README.md'}
     return cache[key]
-
-
 def check(repo: Path, corpus: Path) -> dict:
     sys.path.insert(0, str(Path(__file__).resolve().parent))
     from build import load  # the same corpus.json + corpus.d/ merge the build used
@@ -133,19 +132,16 @@ def check(repo: Path, corpus: Path) -> dict:
     cat = Cat(repo)
     trees: dict = {}
     mismatches, versions, details = 0, 0, []
-    branch = future if has_future else 'main'
-    by_act = all_commits_by_act(repo, branch, [a['slug'] for a in c['acts']])
-    # Correction commits (Kind: correction), read by the reading rule in on.py (tools/on.py beside tools/check_repo.py).
-    # A branch with none is checked exactly as before.
-    from on import Reader, _ls
-    rd = Reader(branch, repo, base=lambda h, p: _ls(repo, h, p) if p.endswith('.md') else tree_oids(cat, h, p, trees))
+    dirs = act_dirs(repo, [a['slug'] for a in c['acts']])
+    by_act = all_commits_by_act(repo, future if has_future else 'main', dirs)
+    # Without the future branch (a repo extended by append.py, which writes no version dated after its publish day)
+    # a version in force after today is not in the repo yet: read the versions up to today, as append wrote them.
+    cutoff = None if has_future else dt.datetime.now(dt.timezone.utc).date().isoformat()
     for act in c['acts']:
         slug = act['slug']
         rows = by_act[slug]
-        if rd.fixes:
-            rows = [r for r in rows if r[0] not in rd.skip]
         prev = None
-        vs = act['versions']
+        vs = [v for v in act['versions'] if cutoff is None or v['from'] <= cutoff]
         for i, v in enumerate(vs):
             versions += 1
             # With same-day versions only the last one of the day is the text in force at the end of that day, and
@@ -154,11 +150,7 @@ def check(repo: Path, corpus: Path) -> dict:
                 continue
             before = next((w for w in reversed(vs[:i]) if w['from'] < v['from']), None)
             for day, want in ((v['from'], v), ((dt.date.fromisoformat(v['from']) - dt.timedelta(days=1)).isoformat(), before)):
-                if rd.fixes:
-                    files, _, _ = rd.files(slug, day, rows=rows)
-                    h = None if files is None else True
-                else:
-                    h = state_on(rows, day)
+                h = state_on(rows, day)
                 if want is None:
                     if h is not None:
                         mismatches += 1
@@ -168,9 +160,8 @@ def check(repo: Path, corpus: Path) -> dict:
                     mismatches += 1
                     details.append(f'{slug}: nothing in force on {day}')
                     continue
-                if not rd.fixes:
-                    files = tree_oids(cat, h, slug, trees)
-                expect ={f'{slug}/{k}.md': blob_oid(u['text']) for k, u in want['units'].items()}
+                files = tree_oids(cat, h, dirs[slug], trees)
+                expect = {f'{k}.md': blob_oid(u['text']) for k, u in want['units'].items()}
                 for f in sorted(set(files) | set(expect)):
                     if files.get(f) != expect.get(f):
                         mismatches += 1
@@ -200,15 +191,12 @@ def check(repo: Path, corpus: Path) -> dict:
     # The last commit is the docs commit, dated noon local time on --docs-date; built the same day before noon it is
     # a few hours ahead of now. Allow it up to two days; every law commit must be in the past.
     future_dated = sum(1 for x in cts[:-1] if x > now) + (1 if cts and cts[-1] > now + 2 * 86400 else 0)
-    extra = {'corrections': len(rd.fixes)} if rd.fixes else {}  # only when there are any: unchanged output otherwise
-    return {**extra, 'acts': len(c['acts']), 'versions': versions, 'mismatches': mismatches, 'trailer_errors': trailer_errors,
+    return {'acts': len(c['acts']), 'versions': versions, 'mismatches': mismatches, 'trailer_errors': trailer_errors,
             'missing_in_force': missing_in_force, 'merges': merges, 'backwards': backwards,
             'future_dated': future_dated, 'details': details,
             # Which corpus this check read (a main build reads only the verified parts), so REPRODUCE.md quotes a check
             # only in the build it describes.
             'corpus_sha256': hashlib.sha256(raw).hexdigest()}
-
-
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('repo')
@@ -226,7 +214,5 @@ def main():
         ver['check'] = {k: v for k, v in res.items() if k != 'details'}
         p.write_text(json.dumps(ver, indent=1, sort_keys=True) + '\n', encoding='utf-8', newline='\n')
     raise SystemExit(0 if ok else 1)
-
-
 if __name__ == '__main__':
     main()
